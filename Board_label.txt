@@ -1,0 +1,13 @@
+Label Board
+0 | DCARD Funny
+1 | DCARD Girl
+2 | DCARD Makeup
+3 | DCARD Marvel
+4 | DCARD Food
+5 | DCARD Movie
+6 | PTT Womentalk
+7 | PTT Makeup
+8 | PTT Marvel
+9 | PTT Food
+10 | PTT Movie
+11 | PTT Joke
